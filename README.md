@@ -15,7 +15,7 @@ The parts users never see but always feel.
 languages    typescript · javascript · python · sql
 frameworks   nestjs · express · adonis.js
 databases    postgresql · mysql · mongodb · redis
-infra        docker · kubernetes · aws · azure · terraform
+infra        docker · aws · azure · terraform
 tools        github actions · coolify · proxmox · opnsense
 ```
 
