@@ -5,7 +5,7 @@ The parts users never see but always feel.
 
 #### what I'm up to
 
-- 🔧 Building [Infra Stackdoc](https://github.com/thatkazuk1/infra-stackdoc) — document and visualize your homelab stack
+- 🔧 Building [Oriweave](https://github.com/oryweave/oriweave) — document and visualize your homelab stack
 - 🖥️ Running a homelab on Proxmox, Kubernetes, and too many Docker containers
 - 📖 Re-reading *Designing Data-Intensive Applications* (it hits different the second time)
 
